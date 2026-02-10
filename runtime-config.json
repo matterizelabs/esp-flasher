@@ -1,0 +1,15 @@
+{
+  "reportApiBaseUrl": "",
+  "reportApiToken": "",
+  "enrichApiBaseUrl": "",
+  "enrichApiToken": "",
+  "supportedChipProfiles": ["esp32", "esp32c6", "esp32s3", "esp32h2"],
+  "factoryPartitionNames": ["factory_data", "fctry", "matter"],
+  "serialUsbFilters": [
+    { "usbVendorId": 4292 },
+    { "usbVendorId": 4292, "usbProductId": 60000 },
+    { "usbVendorId": 4292, "usbProductId": 60016 },
+    { "usbVendorId": 6790 },
+    { "usbVendorId": 4292, "usbProductId": 33130 }
+  ]
+}
