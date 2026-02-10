@@ -1,6 +1,4 @@
 {
-  "reportApiBaseUrl": "",
-  "reportApiToken": "",
   "enrichApiBaseUrl": "",
   "enrichApiToken": "",
   "supportedChipProfiles": ["esp32", "esp32c6", "esp32s3", "esp32h2"],
